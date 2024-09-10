@@ -1,1 +1,2 @@
-# customer_banking
+# Customer Banking Challenge <br/>
+In this assignment, we created a customer banking system that allows users to calculate and track interest earned on savings and CD accounts. This assingment will prompt the user to imput their account informations, interest rates, and months they are collecting interest in order to calculate everything. I received help from chatGPT to help with my syntax with some functions along with visiting past class exercises to apply what we are learning!
